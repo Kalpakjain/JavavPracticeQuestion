@@ -8,3 +8,7 @@ Phase 1 : <br>
 4. Check if a given year is a leap year
 5. Take a character and check if it’s a vowel or consonant.
 6. Take a character and check whether it’s uppercase, lowercase, a digit, or a special character.
+
+Phase 2 : <br>
+7. Take three sides and check if they form a valid triangle.
+8. If the sides form a valid triangle, determine whether it is equilateral, isosceles, or scalene.
