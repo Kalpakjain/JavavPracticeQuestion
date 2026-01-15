@@ -13,3 +13,5 @@ Phase 2 :
 
 7. Take three sides and check if they form a valid triangle. 
 8. If the sides form a valid triangle, determine whether it is equilateral, isosceles, or scalene.
+9. Take marks (0–100) and print the corresponding grade (A/B/C/D/F).
+10. Check if one of two given numbers is a multiple of the other.
