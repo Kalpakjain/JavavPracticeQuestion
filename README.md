@@ -15,3 +15,5 @@ Phase 2 :
 8. If the sides form a valid triangle, determine whether it is equilateral, isosceles, or scalene.
 9. Take marks (0–100) and print the corresponding grade (A/B/C/D/F).
 10. Check if one of two given numbers is a multiple of the other.
+11. Take the hour of the day (0–23) and print “Good Morning”, “Good Afternoon” “Good Evening”, or “Good Night”.
+12. Check voting eligibility for a given age (18+).
