@@ -17,3 +17,5 @@ Phase 2 :
 10. Check if one of two given numbers is a multiple of the other.
 11. Take the hour of the day (0–23) and print “Good Morning”, “Good Afternoon” “Good Evening”, or “Good Night”.
 12. Check voting eligibility for a given age (18+).
+13. Take two numbers and determine whether both are even, both are odd, or one is even and one is odd.
+14. Take an alphabet character and check if it lies between ‘a’ and ‘m’ or ‘n’ and ‘z’.
