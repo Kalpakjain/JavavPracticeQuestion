@@ -19,3 +19,5 @@ Phase 2 :
 12. Check voting eligibility for a given age (18+).
 13. Take two numbers and determine whether both are even, both are odd, or one is even and one is odd.
 14. Take an alphabet character and check if it lies between ‘a’ and ‘m’ or ‘n’ and ‘z’.
+15. Take a day number (1–7) and print the corresponding day name.
+16. Take a month number (1–12) and print the number of days in that month (ignore leap years).
