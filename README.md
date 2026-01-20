@@ -21,3 +21,9 @@ Phase 2 :
 14. Take an alphabet character and check if it lies between ‘a’ and ‘m’ or ‘n’ and ‘z’.
 15. Take a day number (1–7) and print the corresponding day name.
 16. Take a month number (1–12) and print the number of days in that month (ignore leap years).
+
+Level 3: Math and Number Logic
+17. Take a 3-digit number and check if all digits are distinct.
+18. Take a 3-digit number and determine if the middle digit is the largest, smallest, or neither.
+19. Take a 4-digit number and check if the first and last digits are equal.
+20. Check whether a given integer is single-digit, double-digit, or multi-digit.
