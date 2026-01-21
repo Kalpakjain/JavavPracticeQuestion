@@ -23,7 +23,14 @@ Phase 2 :
 16. Take a month number (1–12) and print the number of days in that month (ignore leap years).
 
 Level 3: Math and Number Logic
+
+
 17. Take a 3-digit number and check if all digits are distinct.
 18. Take a 3-digit number and determine if the middle digit is the largest, smallest, or neither.
 19. Take a 4-digit number and check if the first and last digits are equal.
 20. Check whether a given integer is single-digit, double-digit, or multi-digit.
+21. Check if a number is a multiple of 7 or ends with 7.
+22. Take coordinates (x, y) and determine which quadrant the point lies in.
+23. Check if an amount can be evenly divided into 2000, 500, and 100 currency notes.
+24. Check if a number lies within the range [100, 999].
+25. Take two angles of a triangle and compute the third angle.
