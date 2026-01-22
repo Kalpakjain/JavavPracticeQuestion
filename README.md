@@ -34,3 +34,12 @@ Level 3: Math and Number Logic
 23. Check if an amount can be evenly divided into 2000, 500, and 100 currency notes.
 24. Check if a number lies within the range [100, 999].
 25. Take two angles of a triangle and compute the third angle.
+26. Check whether a number is a perfect square (without using the square root function).
+
+Level 4: Logical Operators & Compound Statements
+
+
+27. Take a character and check if it is a letter, a digit, or neither.
+28. Take a number and print “Fizz” if divisible by 3,"Buzz" id divisible by 5, and “FizzBuzz” if divisible by both.
+29. Take three numbers and print the median value (neither maximum nor minimum).
+30. Take 24-hour time (hours and minutes) and print whether it is AM or PM.
