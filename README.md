@@ -43,3 +43,9 @@ Level 4: Logical Operators & Compound Statements
 28. Take a number and print “Fizz” if divisible by 3,"Buzz" id divisible by 5, and “FizzBuzz” if divisible by both.
 29. Take three numbers and print the median value (neither maximum nor minimum).
 30. Take 24-hour time (hours and minutes) and print whether it is AM or PM.
+31. Take income and age, and check if eligible for tax (age > 18 and income > 5 L).
+32. Take two numbers and check if both are positive and their sum is less than 100.
+33. Take a single digit (0–9) and print its word form (“Zero” to “Nine”).
+34. Take a weekday number (1–7) and determine if it is a weekday or weekend.
+35. Take electricity units consumed and calculate the bill as per slabs (using if-else).
+36. Take a password string and check basic rules (length ≥ 8 and contains at least one digit).
