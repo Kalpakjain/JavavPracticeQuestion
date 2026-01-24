@@ -1,7 +1,7 @@
 <b/>The basic problems of java which can help beginners for logic building.</b><br>
 There is a Phase wise question set as below :<br>
 
-</h2>Phase 1 – Conditional Thinking (If–Else, Boolean Logic)</h2>
+<h2> Phase 1 – Conditional Thinking (If–Else, Boolean Logic)</h2>
 
 
 Level 1: Simple Conditions (Getting started) : <br>
