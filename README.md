@@ -1,7 +1,10 @@
 <b/>The basic problems of java which can help beginners for logic building.</b><br>
 There is a Phase wise question set as below :<br>
 
-Level 1 : <br>
+</h2>Phase 1 – Conditional Thinking (If–Else, Boolean Logic)</h2>
+
+
+Level 1: Simple Conditions (Getting started) : <br>
 1. Take a number and print whether it’s positive, negative, or zero.
 2. Check if a number is divisible by 5.
 3. Check if a number is divisible by both 3 and 5.
@@ -9,7 +12,8 @@ Level 1 : <br>
 5. Take a character and check if it’s a vowel or consonant.
 6. Take a character and check whether it’s uppercase, lowercase, a digit, or a special character.
 
-Phase 2 : 
+
+Level 2: Nested If & Multiple Conditions :  <br>
 
 7. Take three sides and check if they form a valid triangle. 
 8. If the sides form a valid triangle, determine whether it is equilateral, isosceles, or scalene.
@@ -22,7 +26,8 @@ Phase 2 :
 15. Take a day number (1–7) and print the corresponding day name.
 16. Take a month number (1–12) and print the number of days in that month (ignore leap years).
 
-Level 3: Math and Number Logic
+
+Level 3: Math and Number Logic : <br>
 
 
 17. Take a 3-digit number and check if all digits are distinct.
@@ -36,7 +41,8 @@ Level 3: Math and Number Logic
 25. Take two angles of a triangle and compute the third angle.
 26. Check whether a number is a perfect square (without using the square root function).
 
-Level 4: Logical Operators & Compound Statements
+
+Level 4: Logical Operators & Compound Statements : <br>
 
 
 27. Take a character and check if it is a letter, a digit, or neither.
@@ -50,7 +56,8 @@ Level 4: Logical Operators & Compound Statements
 35. Take electricity units consumed and calculate the bill as per slabs (using if-else).
 36. Take a password string and check basic rules (length ≥ 8 and contains at least one digit).
 
-Level 5: Creative / Tricky Logical Scenarios
+
+Level 5: Creative / Tricky Logical Scenarios : <br>
 
 
 37. Take coordinates (x, y) and check if the point lies on the X-axis, Y-axis, or at the origin.
