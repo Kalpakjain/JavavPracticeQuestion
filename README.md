@@ -1,7 +1,7 @@
 <b/>The basic problems of java which can help beginners for logic building.</b><br>
 There is a Phase wise question set as below :<br>
 
-Phase 1 : <br>
+Level 1 : <br>
 1. Take a number and print whether it’s positive, negative, or zero.
 2. Check if a number is divisible by 5.
 3. Check if a number is divisible by both 3 and 5.
