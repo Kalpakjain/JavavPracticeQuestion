@@ -49,3 +49,17 @@ Level 4: Logical Operators & Compound Statements
 34. Take a weekday number (1–7) and determine if it is a weekday or weekend.
 35. Take electricity units consumed and calculate the bill as per slabs (using if-else).
 36. Take a password string and check basic rules (length ≥ 8 and contains at least one digit).
+
+Level 5: Creative / Tricky Logical Scenarios
+
+
+37. Take coordinates (x, y) and check if the point lies on the X-axis, Y-axis, or at the origin.
+38. Take three numbers and check if they can form a Pythagorean triplet.
+39. Take day and month and check if it forms a valid calendar date (ignoring leap years).
+40. Take time (hours and minutes) and print the smaller angle between the hour and minute hands.
+41. Take three numbers and check if they are in arithmetic progression.
+42. Take three numbers and check if they are in geometric progression.
+43. Take a 3-digit number and check if the sum of the first and last digit equals the middle digit.
+44. Take an integer (1–9999) and check if the sum of its digits is greater than the product of its digits.
+45. Take two dates (day and month) and determine which one comes first in the calendar.
+46. Take a year and print the corresponding century (e.g., “19th century”, “20th century”)
