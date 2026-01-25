@@ -1,10 +1,8 @@
 <b/>The basic problems of java which can help beginners for logic building.</b><br>
 There is a Phase wise question set as below :<br>
 
-<h2> Phase 1 – Conditional Thinking (If–Else, Boolean Logic)</h2>
-
-
-Level 1: Simple Conditions (Getting started) : <br>
+## Phase 1 – Conditional Thinking (If–Else, Boolean Logic)
+**Level 1: Simple Conditions (Getting started) :**
 1. Take a number and print whether it’s positive, negative, or zero.
 2. Check if a number is divisible by 5.
 3. Check if a number is divisible by both 3 and 5.
@@ -13,7 +11,7 @@ Level 1: Simple Conditions (Getting started) : <br>
 6. Take a character and check whether it’s uppercase, lowercase, a digit, or a special character.
 
 
-Level 2: Nested If & Multiple Conditions :  <br>
+**Level 2: Nested If & Multiple Conditions :**
 
 7. Take three sides and check if they form a valid triangle. 
 8. If the sides form a valid triangle, determine whether it is equilateral, isosceles, or scalene.
@@ -27,7 +25,7 @@ Level 2: Nested If & Multiple Conditions :  <br>
 16. Take a month number (1–12) and print the number of days in that month (ignore leap years).
 
 
-Level 3: Math and Number Logic : <br>
+**Level 3: Math and Number Logic :**
 
 
 17. Take a 3-digit number and check if all digits are distinct.
@@ -42,8 +40,7 @@ Level 3: Math and Number Logic : <br>
 26. Check whether a number is a perfect square (without using the square root function).
 
 
-Level 4: Logical Operators & Compound Statements : <br>
-
+**Level 4: Logical Operators & Compound Statements :**
 
 27. Take a character and check if it is a letter, a digit, or neither.
 28. Take a number and print “Fizz” if divisible by 3,"Buzz" id divisible by 5, and “FizzBuzz” if divisible by both.
@@ -57,7 +54,7 @@ Level 4: Logical Operators & Compound Statements : <br>
 36. Take a password string and check basic rules (length ≥ 8 and contains at least one digit).
 
 
-Level 5: Creative / Tricky Logical Scenarios : <br>
+**Level 5: Creative / Tricky Logical Scenarios :**
 
 
 37. Take coordinates (x, y) and check if the point lies on the X-axis, Y-axis, or at the origin.
@@ -70,3 +67,15 @@ Level 5: Creative / Tricky Logical Scenarios : <br>
 44. Take an integer (1–9999) and check if the sum of its digits is greater than the product of its digits.
 45. Take two dates (day and month) and determine which one comes first in the calendar.
 46. Take a year and print the corresponding century (e.g., “19th century”, “20th century”)
+
+## PHASE 2 — LOOPING & PATTERNS (ITERATION & FLOW)
+🎯Goal: Master loops, iteration, and dry-run thinking.
+Topics covered: for, while, nested loops, break/continue, mathematical series.
+Target Questions: 40–50
+
+**🟢 Level 1: Basic Looping (Introductory)**
+1. Print numbers from 1 to 10.
+2. Print all even numbers between 1 and 100.
+3. Print all odd numbers between 1 and 100.
+4. Print numbers from 10 down to 1.
+5. Print the table of a given number (n × 1 to n × 10).
