@@ -84,3 +84,11 @@ Target Questions: 40–50
 8. Print the sum of all odd numbers up to n.
 9. Print the factorial of a given number.
 10. Print the product of digits of a given number.
+
+**Level 2: Number-based Looping Logic**
+
+11. Count the number of digits in a given number.
+12. Print the reverse of a given number.
+13. Check if a number is a palindrome.
+14. Find the sum of digits of a number.
+15. Check if a number is an Armstrong number.
