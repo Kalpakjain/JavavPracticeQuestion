@@ -92,3 +92,8 @@ Target Questions: 40–50
 13. Check if a number is a palindrome.
 14. Find the sum of digits of a number.
 15. Check if a number is an Armstrong number.
+16. Check if a number is a perfect number.
+17. Print all prime numbers between 1 and 100.
+18. Check if a number is prime or not.
+19. Print Fibonacci series up to n terms.
+20. Print sum of first n terms of Fibonacci series.
