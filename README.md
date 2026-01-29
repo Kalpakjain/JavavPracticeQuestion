@@ -97,3 +97,12 @@ Target Questions: 40–50
 18. Check if a number is prime or not.
 19. Print Fibonacci series up to n terms.
 20. Print sum of first n terms of Fibonacci series.
+
+
+**🟠 Level 3: Mathematical & Logical Patterns**
+
+21. Print the squares of numbers from 1 to n.
+22. Print cubes of numbers from 1 to n.
+23. Print all numbers between a and b divisible by 7.
+24. Find HCF (GCD) of two numbers using loops.
+25. Find LCM of two numbers using loops.
