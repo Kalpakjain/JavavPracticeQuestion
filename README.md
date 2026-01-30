@@ -106,3 +106,8 @@ Target Questions: 40–50
 23. Print all numbers between a and b divisible by 7.
 24. Find HCF (GCD) of two numbers using loops.
 25. Find LCM of two numbers using loops.
+26. Print all factors of a given number.
+27. Find the sum of all factors of a number.
+28. Check if a number is a strong number (sum of factorials of digits = number).
+29. Print first n terms of an arithmetic progression (a, d).
+30. Print first n terms of a geometric progression (a, r).
