@@ -111,3 +111,11 @@ Target Questions: 40–50
 28. Check if a number is a strong number (sum of factorials of digits = number).
 29. Print first n terms of an arithmetic progression (a, d).
 30. Print first n terms of a geometric progression (a, r).
+
+**� Level 4: Logical Loop Combinations**
+
+31. Print all numbers whose sum of digits is even (1–100).
+32. Count how many numbers between 1–500 are divisible by 7 but not by 5.
+33. Print all numbers that are palindromes between 1–500.
+34. Print numbers between 1–100 whose digits add up to a multiple of 3.
+35. Find the smallest and largest digit in a given number.
